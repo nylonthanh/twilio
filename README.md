@@ -1,5 +1,5 @@
 # twilio
-SMS service meant to go into a larger project; built out with a factory design so to enable user to plug in a new SMS service less headaches
+SMS service meant to go into a larger project; built out with a factory design to enable dev to plug in a new SMS service less headaches. ie If you need to use something other than Twilio, it'll take less time to switch.
 
 to run:
 
